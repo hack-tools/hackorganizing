@@ -63,7 +63,7 @@ A list of needs, lists and tips to run a Hackathon.
 - After event statistics
 - After event outcome and thank you email to Sponsors
 - After event outcome and thank you email to Teams
-- Submit the event on lists (eg http://www.hackalist.org, http://www.hackathonwatch.com, https://hackevents.co)
+- Submit the event on lists (eg [Hackalist](http://www.hackalist.org), [HackathonWatch](http://www.hackathonwatch.com), [Hackevents](https://hackevents.co))
 
 ## Food and drinks
 - Food
