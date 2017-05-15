@@ -1,4 +1,4 @@
-<img src="hackorganizing_logo.png" alt="logo" align="right">
+<a href="/"><img src="hackorganizing_logo.png" alt="logo" align="right"></a>
 
 # HackOrganizing
 
