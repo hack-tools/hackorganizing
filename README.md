@@ -2,7 +2,7 @@
 
 # HackOrganizing
 
-A list of needs, lists and tips to organize and run a Hackathon.
+A list of needs, lists, tips and helpful resources to organize and run a Hackathon.
 
 ---
 
