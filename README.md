@@ -7,7 +7,14 @@ A list of needs, lists and tips to run a Hackathon.
 ---
 
 **Table of Contents**
-
+* [Organization and Process](#organization-and-process)
+* [Attendees](#attendees)
+* [Sponsors](#sponsors)
+* [Marketing and Communication](#marketing-and-communication)
+* [Food and drinks](#food-and-drinks)
+* [Infrastructure](#infrastructure)
+* [Several](#several)
+* [Similar resources](#similar-resources)
 
 ---
 
