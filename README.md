@@ -1,8 +1,11 @@
+<p></p>
 <a href="https://hack-tools.github.io/"><img src="hackorganizing_logo.png" alt="logo" align="right"></a>
 
 # HackOrganizing
 
 A list of needs, lists, tips and helpful resources to organize and run a Hackathon.
+
+[edit](https://github.com/hack-tools/hackorganizing/edit/master/README.md)
 
 ---
 
@@ -104,3 +107,5 @@ A list of needs, lists, tips and helpful resources to organize and run a Hackath
 - [kinlane/hack-weekends-guide](https://github.com/kinlane/hack-weekends-guide)
 - [cconsidine/awesome-hackathons](https://github.com/cconsidine/awesome-hackathons)
 - [ghmeier.github.io/hackathon-planning-guide](http://ghmeier.github.io/hackathon-planning-guide)
+
+<p></p>
