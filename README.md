@@ -102,7 +102,7 @@ A list of needs, lists, tips and helpful resources to organize and run a Hackath
 - White paper (blank pages)
 
 ## Templates
-- [Download task lists templates](https://github.com/hack-tools/hackorganizing/blob/master/task_lists.zip)
+- [Download task lists templates](https://github.com/hack-tools/hackorganizing/raw/master/task_templates.zip)
 
 ## Similar resources
 - [hackathon.guide](https://hackathon.guide)
