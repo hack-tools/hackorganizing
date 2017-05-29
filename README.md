@@ -17,6 +17,7 @@ A list of needs, lists, tips and helpful resources to organize and run a Hackath
 * [Food and drinks](#food-and-drinks)
 * [Infrastructure](#infrastructure)
 * [Several](#several)
+* [Templates](#templates)
 * [Similar resources](#similar-resources)
 
 ---
@@ -99,6 +100,9 @@ A list of needs, lists, tips and helpful resources to organize and run a Hackath
 - Soap
 - Toilet paper
 - White paper (blank pages)
+
+## Templates
+- [Download task lists templates](https://github.com/hack-tools/hackorganizing/blob/master/task_lists.zip)
 
 ## Similar resources
 - [hackathon.guide](https://hackathon.guide)
