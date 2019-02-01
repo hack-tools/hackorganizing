@@ -92,8 +92,8 @@ A list of needs, lists, tips and helpful resources to organize and run a Hackath
 - Heating/Air Condition
 - Desks
 - Chairs
-- ADSL line
-- Cables etc
+- Hight spped internet wifi
+- Cables, plugs etc
 
 ## Several
 - Plugs
