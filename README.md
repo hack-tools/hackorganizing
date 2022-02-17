@@ -74,7 +74,7 @@ A list of needs, lists, tips and helpful resources to organize and run a Hackath
 - After event statistics
 - After event outcome and thank you email to Sponsors
 - After event outcome and thank you email to Teams
-- Submit the event on lists (eg [Hackalist](http://www.hackalist.org), [HackathonWatch](http://www.hackathonwatch.com), [Hackevents](https://hackevents.co))
+- Submit the event on lists (eg [Hackalist](http://www.hackalist.org))
 
 ## Food and drinks
 - Food
